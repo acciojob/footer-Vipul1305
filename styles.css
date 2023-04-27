@@ -1,1 +1,32 @@
 /* your code here */
+.content{
+	background-color:black;
+	height:50vh;
+}
+.top{
+	display:flex;
+	
+	justify-content: space-between;
+	align-items: center;
+/* 	background: #FCAF02; */
+	height:70px;
+	padding:0px 25px
+}
+.logo_name{
+	color:white;
+	font-size:30px
+}
+.link-boxes{
+	display:flex;
+	justify-content:space-evenly;
+	
+}
+.link-boxes p{
+	color:white;
+}
+.bottom-details{
+	display:flex;
+	justify-content:space-between;
+	background-color: gray;
+	padding: 0px 25px;
+}

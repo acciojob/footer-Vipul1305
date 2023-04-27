@@ -16,6 +16,9 @@
 	color:white;
 	font-size:30px
 }
+.media-icons{
+	display:flex;
+}
 .link-boxes{
 	display:flex;
 	justify-content:space-evenly;
